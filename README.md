@@ -1,4 +1,4 @@
-#Redux App
+# Redux App
 
 <p>This is a simple app that has input fields and a button that add an item's title, description, and
 image url to display. </p>
