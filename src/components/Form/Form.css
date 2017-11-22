@@ -1,0 +1,33 @@
+.form {
+margin: 10px auto;
+width: 100%;
+border-top-width: thin;
+}
+.header {
+  text-align: center;
+  padding: 30px;
+  margin: 20px auto;
+  background-color: lime;
+  color: blue;
+}
+.but {
+  width: 100%;
+  border-top: 1px solid green;
+  font-weight: bold;
+  font-size: 25px;
+  background-color: lime;
+}
+.form .input {
+  width: 100%;
+  border: 1px solid green;
+  border-radius: 5px 20px;
+  text-align: center;
+  font-style: italic;
+  color: red;
+}
+.but-kill {
+  width: 100%;
+}
+.fa {
+  font-size: 50px;
+}
